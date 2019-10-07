@@ -14,3 +14,5 @@ A simple API to manage a Person's Details built using SprinBoot
 -- PUT to modify the user
 
 
+
+![](output.gif)
